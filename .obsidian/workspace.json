@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "65f5ff751420bc94",
+    "type": "split",
+    "children": [
+      {
+        "id": "1783c318ae451742",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc0a515236b9cb5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wieloprocesorowosc skrucona.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bb64be7ec0962ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wieloprocesorowowosc notatka.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbd749cb09ff9027",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bd9ca1ce8f0653d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7acde79d2f2e2f4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e90051deb65929f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22ce8f7e41a9bb54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "f825051223b327b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "79bd89a2c0ef80ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "399e8296cc7ecece",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wieloprocesorowosc skrucona.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23288a9987c737cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wieloprocesorowosc skrucona.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb99c8351cdd0a86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e886f9eac954f9f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wieloprocesorowosc skrucona.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false
+    }
+  },
+  "active": "e886f9eac954f9f5",
+  "lastOpenFiles": [
+    "Wieloprocesorowosc skrucona.md",
+    "wieloprocesorowowosc notatka.md",
+    "obazki/Pasted image 20240622161124.png",
+    "obazki",
+    "obazki/Pasted image 20240622161808.png",
+    "obazki/Pasted image 20240622161801.png",
+    "obazki/Pasted image 20240622161757.png",
+    "obazki/Pasted image 20240622161752.png",
+    "obazki/Pasted image 20240622161744.png",
+    "obazki/Pasted image 20240622161739.png",
+    "obazki/Pasted image 20240622161719.png",
+    "obazki/Pasted image 20240622161714.png",
+    "obazki/Pasted image 20240622161709.png"
+  ]
+}
