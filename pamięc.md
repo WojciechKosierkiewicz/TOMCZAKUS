@@ -1,0 +1,14 @@
+- hierarchia pamięci
+- organizacja i obsługa pamięci
+- komórka pamięci półprzewodnikowej
+- matryca pamięci statycznej
+- organizacja i obsługa statycznej pamięci ram
+- matryca pamięci dynamicznej
+- organizacja i obsługa pamięci dynamicznej dram
+- parametry ddr
+- przepustowość pamięci
+- krzywe wypełniająca
+- kafelki
+- pomięć o dostępie bezpośrednim
+- DMA
+- 

@@ -4,35 +4,154 @@
     "type": "split",
     "children": [
       {
-        "id": "1783c318ae451742",
+        "id": "2538539be731affe",
         "type": "tabs",
         "children": [
           {
-            "id": "fc0a515236b9cb5c",
+            "id": "c24b58d032ce3d35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wieloprocesorowosc skrucona.md",
+                "file": "wieloprocesowosc.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6bb64be7ec0962ec",
+            "id": "cb97941343e97f44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wieloprocesorowowosc notatka.md",
+                "file": "wieloprocesowosc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e045f179c0acd942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "równoległość drobnoziarnista.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c8830219be75e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pamięc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63a0c98eab904c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pamięc podręczna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe7366314a07290e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "komputer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50dda81b5450b688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "komputer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b3abc3c6b28436d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "elementy składni at&t.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11ee1e6f427db8ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fragmentacja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6918763a2ee5b360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pełna adresacja at&t.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86d78392018d4f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fragmentacja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e304d4d58fa69f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pełna adresacja at&t.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +197,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -98,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wieloprocesorowosc skrucona.md",
+                "file": "wieloprocesowosc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wieloprocesorowosc skrucona.md",
+                "file": "wieloprocesowosc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wieloprocesorowosc skrucona.md"
+                "file": "wieloprocesowosc.md"
               }
             }
           }
@@ -147,7 +267,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,20 +280,33 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "e886f9eac954f9f5",
+  "active": "c24b58d032ce3d35",
   "lastOpenFiles": [
-    "Wieloprocesorowosc skrucona.md",
+    "autostrada.md",
+    "pamięc podręczna.md",
+    "wieloprocesorowosc.md",
     "wieloprocesorowowosc notatka.md",
+    "równoległość drobnoziarnista.md",
+    "pamięc.md",
+    "wydajnosc.md",
+    "komputer.md",
+    "wieloprocesowosc.md",
+    "mesi.md",
+    "Pasted image 20240623192016.png",
+    "Pasted image 20240623192007.png",
+    "fragmentacja.md",
+    "Pasted image 20240623191821.png",
+    "elementy składni at&t.md",
+    "konflikty.md",
+    "Pasted image 20240623191504.png",
+    "Pasted image 20240623191459.png",
+    "pełna adresacja at&t.md",
+    "Pasted image 20240623191321.png",
+    "Wieloprocesorowosc skrucona.md",
+    "obazki/Pasted image 20240622161140.png",
     "obazki/Pasted image 20240622161124.png",
     "obazki",
     "obazki/Pasted image 20240622161808.png",
-    "obazki/Pasted image 20240622161801.png",
-    "obazki/Pasted image 20240622161757.png",
-    "obazki/Pasted image 20240622161752.png",
-    "obazki/Pasted image 20240622161744.png",
-    "obazki/Pasted image 20240622161739.png",
-    "obazki/Pasted image 20240622161719.png",
-    "obazki/Pasted image 20240622161714.png",
-    "obazki/Pasted image 20240622161709.png"
+    "obazki/Pasted image 20240622161801.png"
   ]
 }

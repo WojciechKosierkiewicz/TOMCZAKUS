@@ -1,0 +1,17 @@
+- prawo moore'a
+- przetwarzanie równoległe i wspólbieżne
+- taksonomia Flynn'a
+- Architektura systemów równoległych
+- symetryczny multiprocesor
+- procesor wielordzeniowy
+- system magistral
+- transakcje
+- protokoły asynchronyczne
+- przesłania niepowiązane
+- arbitraż magistrali
+- urządzenia wejscia i wyjscia
+- poufność i bezpieczenstwo
+- spekty niezawodnosci
+- kody detekcyjne i korekcyjne
+- macierze raid
+- 

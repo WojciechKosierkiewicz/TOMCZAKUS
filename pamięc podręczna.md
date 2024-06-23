@@ -1,0 +1,22 @@
+- bariera pamięci 
+- zasada lokalnośći
+- lokalność
+- zasady uzycia bufora
+- bufory
+- wyszukiwanie danych w pamieci podrecznej
+- organizacja pamieci podrecznej
+- odwzorowanie danych w pamieci
+- obsługa pamieci podrzecznej
+- aktualizacja zawartosci bufora cache
+- kategorie chybień
+- redukcja chybień
+- zarządzanie pamiecią podręczną (schematy/strategie)
+- schematy wywołania i pobrania lini
+- intensywnosc pobrań
+- skuteczność bufora
+- pamięc wielopoziomnowa
+- wielopoziomowy bufor
+- MESI model spójnosci pamięci podręcznej
+- pamięc notatnikowa
+- blokowanie pamięci podręcznej
+- 

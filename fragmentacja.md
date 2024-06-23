@@ -1,0 +1,2 @@
+podczas stronicowania zachodzi wewnętrzna fragmentacja pamięci
+podczas segmentacji zachodzi zewnętrzna fragmentacja pamięci

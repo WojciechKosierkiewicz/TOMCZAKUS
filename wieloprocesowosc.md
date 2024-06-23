@@ -1,0 +1,40 @@
+- procesy wspólbieżne
+- funkcje systemu operacyjnego
+- warunki porpawnosci procesu współbieżnego
+- ochrona procesu
+- model ralizacji procesu
+- model procesowy 
+- model procesowy roszerzony
+- poziom uprzywilejowania procesów kolejnosc wykonania
+- piemięc wielu procesów przesteń wirtualnia
+- odwzorowanie pamięci procesu w przstrzeni operacyjnej
+- ochrona pamięci procesu
+- zarządzanie pamięcia
+- koncepcja pamięci wirtualnej
+- owzorowania przestrzeni wirtualnej
+- model zbioru roczoego
+- efekt szamotania
+- odwzorowanie blokówprzestrzeni wirtualne w pamięci operacyjnej
+- partzje przydział pamięci
+- zewnętrzna fargmentacja partycji spójnych
+- segmentacja
+- stronicowanie
+- pamięc podręczna tablicy stron
+- odwrócona tablica stron
+- schematy zarządzania pamięcią
+- partycje
+- przydział pamięci segmentowanej
+- konekts procesu
+- konetks pamięci
+- przełączanie kontekstów
+- synchronizacja procesów
+- współzawodnictwa
+- wzajemne wykluczanie
+- schematy blokady
+- mechanizm sychronizacji procesów
+- aktywne czekanie
+- przerwania i wyjątki
+- przerwania
+- obsługa przerwań
+- indentyfikacja przerwania
+- 

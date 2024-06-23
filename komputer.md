@@ -1,0 +1,13 @@
+- definicje komputera algorytmu itp
+- maszyna turinga
+- definicje programów
+- organizacja procesora
+- odwzorowanie programu w przestrzeni logicznej i fizycznej
+- interfejsy wysokopoziomowe
+- klasyfikacja instrukcji
+- tryby adresowania
+- model pamieci
+- format instrukcji
+- podstawowe instrukcje
+- konwencja wywoływania funcji
+- generacje języków programowania
