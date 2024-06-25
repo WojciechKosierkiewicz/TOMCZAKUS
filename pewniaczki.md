@@ -1,0 +1,32 @@
+- raid
+	- ![[Pasted image 20240624174212.png]]
+	- ![[Pasted image 20240624174202.png]]
+	- ![[Pasted image 20240624174154.png]]
+	- ![[Pasted image 20240624174147.png]]
+	- ![[Pasted image 20240624174140.png]]
+	- ![[Pasted image 20240624171728.png]]
+- mesi
+	- ![[mesi]]
+- zalety/wady różnych typów zapisu cache
+		
+- pełna adresacja i nazwy w tej adrsacji
+	- ![[pełna adresacja at&t]]
+- konflikty
+	- ![[konflikty]]
+	- ![[Pasted image 20240624174737.png]]
+	- ![[Pasted image 20240624174751.png]]
+	- ![[Pasted image 20240624174803.png]]
+	- ![[Pasted image 20240624174814.png]]
+	- ![[Pasted image 20240624174822.png]]
+	- ![[Pasted image 20240624174838.png]]
+	- 
+- abi ramki stosy itp
+	- ![[Pasted image 20240624182222.png]]
+	- ![[Pasted image 20240624182228.png]]
+- klasy argumentów instrukcji
+	- 
+- może da algorytm tomasulo 
+	- ![[Pasted image 20240624183529.png]]
+	- ![[Pasted image 20240624183643.png]]
+	- ![[Pasted image 20240624183652.png]]
+	- ![[Pasted image 20240624183702.png]]

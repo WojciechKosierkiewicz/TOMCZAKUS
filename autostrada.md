@@ -1,16 +1,167 @@
-- [[konflikty]]
+ - [[konflikty]]
 - [[pełna adresacja at&t]]  - todo
 - [[fragmentacja]]
 - [[elementy składni at&t]]
 - [[fragmentacja]]
 - [[mesi]]
-
-
-## spis tresci
-- ![[komputer]]
-- ![[pamięc podręczna]]
-- ![[pamięc]]
-- ![[równoległość drobnoziarnista]]
-- ![[wieloprocesorowosc]]
-- ![[wieloprocesowosc]]
-- ![[wydajnosc]]
+- [[zadania]]
+- [[pewniaczki]]
+# spis treści
+- komputer
+	-  definicje komputera algorytmu itp
+	- maszyna turinga
+	- definicje programów
+	- organizacja procesora
+	- odwzorowanie programu w przestrzeni logicznej i fizycznej
+	- interfejsy wysokopoziomowe
+	- klasyfikacja instrukcji
+	- tryby adresowania
+	- model pamieci
+	- format instrukcji
+	- podstawowe instrukcje
+	- konwencja wywoływania funcji
+	- generacje języków programowania
+- Pamięć podręczna
+	- bariera pamięci
+	- zasada lokalnośći
+	- lokalność
+	- zasady uzycia bufora
+	- bufory
+	- wyszukiwanie danych w pamieci podrecznej
+	- organizacja pamieci podrecznej
+	- odwzorowanie danych w pamieci
+	- obsługa pamieci podrzecznej
+	- aktualizacja zawartosci bufora cache
+	- kategorie chybień
+	- redukcja chybień
+	- zarządzanie pamiecią podręczną (schematy/strategie)
+	- schematy wywołania i pobrania lini
+	- intensywnosc pobrań
+	- skuteczność bufora
+	- pamięc wielopoziomnowa
+	- wielopoziomowy bufor
+	- MESI model spójnosci pamięci podręcznej
+	- pamięc notatnikowa
+	- blokowanie pamięci podręcznej
+- pamięć
+	- hierarchia pamięci
+	- organizacja i obsługa pamięci
+	- komórka pamięci półprzewodnikowej
+	- matryca pamięci statycznej
+	- organizacja i obsługa statycznej pamięci ram
+	- matryca pamięci dynamicznej
+	- organizacja i obsługa pamięci dynamicznej dram
+	- parametry ddr
+	- przepustowość pamięci
+	- krzywe wypełniająca
+	- kafelki
+	- pomięć o dostępie bezpośrednim
+	- DMA
+- równoległe
+	- organizacja komputera
+	- organizacja procesora sekwencyjnego
+	- koncepcja przetwarzania potokowego
+	- potok CISC
+	- przepływ danych w potoku
+	- organizacja procesora potokowa
+	- czas wykonania podstawowych etapów przetwarzania
+	- koncepcja risc
+	- przyczyny przestojów blokady potoku
+	- analiza konfliktów potok statyczny
+	- konflikt danych
+	- straty na skutek konfiktu danych
+	- konflikt dostępu
+	- konflikt sterowania
+	- straty na konflikt sterowania
+	- łagodzenie konfilktów
+	- przypływ dancyh w potoku dynamiczny I i II i III
+	- statyczna prognoza rozgałęzień
+	- dynamiczna prognoza rozgałęzień
+	- bufor prognozy rozgałęzień
+	- niekolejne wykonanie rozkazów
+	- wielomagistralowy dostęp do pliku rejestrowego
+	- zmiana kolejnośći wykonania rozkazów
+	- podstawowy schemat wykonania rozkazów w potoku
+	- algorytm tomasulo
+	- etapy wykonywania instrukcji
+	- przetwarzanie wektorowe
+- wieloprocesorowość
+	- prawo moore'a
+	- przetwarzanie równoległe i wspólbieżne
+	- taksonomia Flynn'a
+	- Architektura systemów równoległych
+	- symetryczny multiprocesor
+	- procesor wielordzeniowy
+	- numa
+	- system magistral
+	- transakcje
+	- protokoły asynchronyczne
+	- przesłania niepowiązane
+	- arbitraż magistrali
+	- urządzenia wejscia i wyjscia
+	- poufność i bezpieczenstwo
+	- spekty niezawodnosci
+	- kody detekcyjne i korekcyjne
+	- macierze raid
+- wieloprocesowość
+	- procesy wspólbieżne
+	- funkcje systemu operacyjnego
+	- warunki porpawnosci procesu współbieżnego
+	- ochrona procesu
+	- model ralizacji procesu
+	- model procesowy
+	- model procesowy roszerzony
+	- poziom uprzywilejowania procesów kolejnosc wykonania
+	- piemięc wielu procesów przesteń wirtualnia
+	- odwzorowanie pamięci procesu w przstrzeni operacyjnej
+	- ochrona pamięci procesu
+	- zarządzanie pamięcia
+	- koncepcja pamięci wirtualnej
+	- owzorowania przestrzeni wirtualnej
+	- model zbioru roczoego
+	- efekt szamotania
+	- odwzorowanie blokówprzestrzeni wirtualne w pamięci operacyjnej
+	- partzje przydział pamięci
+	- zewnętrzna fargmentacja partycji spójnych
+	- segmentacja
+	- stronicowanie
+	- pamięc podręczna tablicy stron
+	- odwrócona tablica stron
+	- schematy zarządzania pamięcią
+	- partycje
+	- przydział pamięci segmentowanej
+	- konekts procesu
+	- konetks pamięci
+	- przełączanie kontekstów
+	- synchronizacja procesów
+	- współzawodnictwa
+	- wzajemne wykluczanie
+	- schematy blokady
+	- mechanizm sychronizacji procesów
+	- aktywne czekanie
+	- przerwania i wyjątki
+	- przerwania
+	- obsługa przerwań
+	- indentyfikacja przerwania
+- wydajność
+	- Wydajność
+	- Czas wykonania programu
+	- Czas cyklu procesora
+	- Moc, energia, amfetamina
+	- Pobór mocy
+	- Liczba wykonań instrukcji
+	- Średnia liczba cykli na instrukcję
+	- Pułapki
+	- Parametry maszyny
+	- Moc obliczeniowa
+	- BLAS
+	- Zrównoważenie maszyny
+	- Intensywność arytmetyczna
+	- Model sufitowy
+	- Zasada Pareta , przyspieszenie
+	- Prawo Amdahla
+	- Prawo Gustafsona-Barsisa
+	- Skalowanie
+	- Prawo Little'a
+	- Techniki profilowania
+	- Kompilator - optymalizacje
